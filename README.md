@@ -36,10 +36,4 @@ A custom shell built in **C/C++**, featuring command parsing and process managem
 
 ---
 
-## 📊 GitHub Stats
-
-![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=surya142002&show_icons=true&theme=tokyonight)
-
----
-
 Thanks for stopping by! Feel free to explore my repositories and get in touch.
