@@ -1,39 +1,41 @@
-
 # 👋 Hi, I'm Surya Suresh
 
-Welcome to my GitHub! I'm a **Computer Science** graduate from **Purdue University** (Class of 2024), specializing in **Artificial Intelligence** and **Machine Learning**. I’m passionate about using technology to solve real-world problems.
+Welcome to my GitHub! I'm a **Computer Science** graduate from **Purdue University** (Class of 2024), specializing in **Artificial Intelligence** and **Machine Learning**. I'm passionate about applying AI to **healthcare and real-world problem-solving**.
 
 ---
 
-## Connect with Me
+## 📝 Connect with Me
 
-- **Portfolio Website:** [suryasuresh.dev](https://www.suryasuresh.dev)  <!-- Replace with actual link -->
+- **Portfolio Website:** [suryasuresh.dev](https://www.suryasuresh.dev)
 - **LinkedIn:** [linkedin.com/in/surya-suresh-506627219](https://www.linkedin.com/in/surya-suresh-506627219)
 - **Email:** [surya142002@gmail.com](mailto:surya142002@gmail.com)
 
 ---
 
-## Skills & Technologies
+## ⚙️ Skills & Technologies
 
 - **Programming Languages:** Python, Java, C, C++, TypeScript, JavaScript, R, HTML/CSS
-- **Frameworks & Libraries:** React, Node.js, Express, Tailwind CSS, R Shiny
-- **AI/ML Tools:** TensorFlow, PyTorch, Scikit-learn, YOLO, Roboflow
+- **Web Development:** React, Node.js, Express, Tailwind CSS, R Shiny
+- **AI/ML Tools:** TensorFlow, PyTorch, Scikit-learn, XGBoost, YOLO, Roboflow, OpenCV
 - **Databases:** PostgreSQL, MongoDB
 - **Other Tools:** Git, Google Colab, Agile/Scrum
 
 ---
 
-## Featured Projects
+## 🔬 Featured Projects
 
-### [Medicare Data Platform](https://medicaredata.vercel.app/login) <!-- Replace with actual project link -->
-A full-stack app for exploring Medicare datasets.
-  
-### [Object Detection AI](https://www.suryasuresh.dev/projects/object-detection)
+### [X-Ray Fracture Detection](https://www.suryasuresh.dev/projects/x-ray-detection)
+A deep learning model trained on **medical imaging** data to classify X-ray fractures into seven categories. Uses **PyTorch, ResNet50, and Grad-CAM** visualizations.
+
+### [Medical Billing AI Project](https://www.suryasuresh.dev/projects/medical-billing-ai)
+An **AI-driven anomaly detection** system for Medicare billing fraud detection, leveraging **XGBoost and NLP** to identify high-risk claims.
+
+### [Medicare Data Platform](https://medicaredata.vercel.app/login)
+A full-stack app for searching and exploring **Medicare datasets**, including **ICD-10 and HCPCS codes**.
+
+### [AI Snitch Machine](https://www.suryasuresh.dev/projects/object-detection)
 Used **YOLO** and **Roboflow** to detect assignment similarities, helping prevent academic dishonesty.
 
 ### [My Shell](https://www.suryasuresh.dev/projects/my-shell)
-A custom shell built in **C/C++**, featuring command parsing and process management.
+A custom **Unix-like shell** built in **C/C++**, featuring command parsing and process management.
 
----
-
-Thanks for stopping by! Feel free to explore my repositories and get in touch.
