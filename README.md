@@ -24,12 +24,6 @@ Welcome to my GitHub! I'm a **Computer Science** graduate from **Purdue Universi
 
 ## 🔬 Featured Projects
 
-### [X-Ray Fracture Detection](https://www.suryasuresh.dev/projects/x-ray-detection)
-A deep learning model trained on **medical imaging** data to classify X-ray fractures into seven categories. Uses **PyTorch, ResNet50, and Grad-CAM** visualizations.
-
-### [Medical Billing AI Project](https://www.suryasuresh.dev/projects/medicare-fraud-ai)
-An **AI-driven anomaly detection** system for Medicare billing fraud detection, leveraging **XGBoost and NLP** to identify high-risk claims.
-
 ### [Medicare Data Platform](https://medicaredata.vercel.app/login)
 A full-stack app for searching and exploring **Medicare datasets**, including **ICD-10 and HCPCS codes**.
 
