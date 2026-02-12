@@ -1,34 +1,37 @@
 # 👋 Hi, I'm Surya Suresh
 
-Welcome to my GitHub! I'm a **Computer Science** graduate from **Purdue University** (Class of 2024), specializing in **Artificial Intelligence** and **Machine Learning**. I'm passionate about applying AI to **healthcare and real-world problem-solving**.
+Backend-focused Computer Science graduate from Purdue University (Class of 2024) building healthcare data and interoperability systems. My work centers on HL7 v2, FHIR R4, PostgreSQL, and API-driven backend workflows with an emphasis on correctness and deterministic data processing.
 
 ---
 
 ## 📝 Connect with Me
 
-- **Portfolio Website:** [suryasuresh.dev](https://www.suryasuresh.dev)
-- **LinkedIn:** [linkedin.com/in/suryasuresh14/](https://www.linkedin.com/in/suryasuresh14/)
-- **Email:** [surya142002@gmail.com](mailto:surya142002@gmail.com)
+- **Portfolio:** https://www.suryasuresh.dev
+- **LinkedIn:** https://www.linkedin.com/in/suryasuresh14/
+- **Email:** suryas142002@gmail.com
 
 ---
 
 ## ⚙️ Skills & Technologies
 
-- **Programming Languages:** Python, Java, C, C++, TypeScript, JavaScript, R, HTML/CSS
-- **Web Development:** React, Node.js, Express, Tailwind CSS, R Shiny
-- **AI/ML Tools:** TensorFlow, PyTorch, Scikit-learn, XGBoost, YOLO, Roboflow, OpenCV
-- **Databases:** PostgreSQL, MongoDB
-- **Other Tools:** Git, Google Colab, Agile/Scrum
+- **Languages:** Python, JavaScript, TypeScript, SQL  
+- **Backend & Web:** Node.js, Express, REST APIs, JWT Authentication, React  
+- **Healthcare Data:** HL7 v2, FHIR R4  
+- **Databases:** PostgreSQL  
+- **Tools:** Docker, Git, Linux/CLI, Agile/Scrum  
 
 ---
 
-## 🔬 Featured Projects
+## 🔬 Projects
 
-### [Medicare Data Platform](https://medicaredata.vercel.app/login)
-A full-stack app for searching and exploring **Medicare datasets**, including **ICD-10 and HCPCS codes**.
+### [HL7 v2 → FHIR Interoperability Pipeline](https://github.com/surya142002/hl7v2-to-fhir-pipeline)
 
-### [AI Snitch Machine](https://www.suryasuresh.dev/projects/object-detection)
-Used **YOLO** and **Roboflow** to detect assignment similarities, helping prevent academic dishonesty.
+A local healthcare interoperability pipeline that ingests HL7 v2 (ADT^A01, ORU^R01) messages, performs strict validation, maps them to FHIR R4 resources, and writes atomic transaction bundles to a Dockerized HAPI FHIR server. Focused on idempotency, deterministic identifiers, and real-world EHR ingestion patterns.
 
-### [My Shell](https://www.suryasuresh.dev/projects/my-shell)
-A custom **Unix-like shell** built in **C/C++**, featuring command parsing and process management.
+---
+
+### [Medicare Data Platform](https://github.com/surya142002/MedicareData)
+
+Full-stack platform for ingesting, normalizing, and searching large Medicare datasets (ICD-10-CM, HCPCS). Implements authenticated access, role-based controls, JSONB-backed PostgreSQL storage, paginated search, and LLM-assisted query expansion.
+
+---
