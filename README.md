@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a **Computer Science** graduate from **Purdue Universi
 ## 📝 Connect with Me
 
 - **Portfolio Website:** [suryasuresh.dev](https://www.suryasuresh.dev)
-- **LinkedIn:** [linkedin.com/in/surya-suresh-506627219](https://www.linkedin.com/in/surya-suresh-506627219)
+- **LinkedIn:** [linkedin.com/in/suryasuresh14/](https://www.linkedin.com/in/suryasuresh14/)
 - **Email:** [surya142002@gmail.com](mailto:surya142002@gmail.com)
 
 ---
